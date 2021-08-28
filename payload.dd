@@ -1,0 +1,4 @@
+REM Import Key
+IMPORT nomine.pem
+ENTER
+DELAY 2000
