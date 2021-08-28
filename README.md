@@ -7,7 +7,7 @@ Aggiornare la raspberry pi pico come descritto nel seguente progetto:
 
 https://github.com/dbisu/pico-ducky
 
-Sostituire il contenuto del file code.py con il cidice contenuto in example.py
+Sostituire il contenuto del file code.py con il codice contenuto in example.py
 
 Caricare su CIRCUITPY il file payload.dd
 
