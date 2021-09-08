@@ -6,7 +6,8 @@ Saldare un pulsante tra i piedini 7 e 8 della raspebrry pi pico.
 
 <img src="https://github.com/ugo-bp/nomine-ekey1/blob/main/images/nomine-ekey1.jpg" />
 
-(Il pulsante in foto e' un pulsante SMD 2.9x3.9mm, 2 pin)
+(Il pulsante in foto e' un pulsante SMD 2.9x3.9mm, 2 pin,
+ TD-85XU Mini Tact Switches)
 
 
 Aggiornare la raspberry pi pico come descritto nel seguente progetto:
