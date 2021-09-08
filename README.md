@@ -1,5 +1,5 @@
-# nomine-ekey1
-Chiave elettronica per archiviazione informazioni di accesso
+# <img src="https://github.com/ugo-bp/nomine/blob/main/images/nomine-ico1.png" /> <p>nomine-ekey1</p>
+<b>Chiave elettronica per archiviazione informazioni di accesso</b>
 
 Saldare un pulsante tra i piedini 7 e 8 della raspebrry pi pico.
 
